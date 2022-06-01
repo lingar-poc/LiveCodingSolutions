@@ -1,5 +1,9 @@
 package squaresOfNumbers;
-
+/**
+ * You can see the details of the task at the assets folder.
+ * @author lingar-local
+ *
+ */
 public class Solution {
 
 	public static void main(String args[]) {
