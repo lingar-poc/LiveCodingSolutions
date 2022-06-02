@@ -6,6 +6,8 @@ import java.util.Scanner;
 class Solution {
 
     public static void main(String args[]) {
+    	
+    	System.out.println("For test it - insert the two lines from the tests (see assets) ");
         Scanner in = new Scanner(System.in);
         String card = in.nextLine();
         String winningNumbers = in.nextLine();
